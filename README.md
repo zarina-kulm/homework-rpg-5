@@ -60,4 +60,13 @@ homework-rpg-5/
 - UML diagrams (2)
 - Clear console demo
 
+### Decorator
+![Decorator](Diagram/Decorator.png)
+
+### Facade
+![Facade](Diagram/Facade.png)
+
+## Ссылка на код
+https://github.com/zarina-kulm/homework-rpg-5
+
 Read `ASSIGNMENT.md` before you start coding.
